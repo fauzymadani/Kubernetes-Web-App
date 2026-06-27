@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kubernetes/minikube/master/images/logo/logo.svg" height="90" alt="minikube">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="90" alt="Docker">
+</p>
+
 # KubeApp — a tiny app for learning Kubernetes with minikube
 
 A single-page Node.js/Express app that shows its pod name, a timestamp, a
